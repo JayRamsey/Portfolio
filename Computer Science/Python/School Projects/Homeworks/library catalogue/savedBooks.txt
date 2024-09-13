@@ -1,0 +1,109 @@
+Gulliver's Travels|Jonathan Swift|Adventure
+The Canterbury Tales|Geoffrey Chaucer|Classic
+Aesop's Fables|Aesop|Fable
+The Complete Works of William Shakespeare|William Shakespeare|Classic
+Don Quixote|Miguel de Cervantes|Classic
+The Divine Comedy|Dante Alighieri|Classic
+The Adventures of Huckleberry Finn|Mark Twain|Adventure
+The Wind in the Willows|Kenneth Grahame|Children's Literature
+The Chronicles of Narnia|C.S. Lewis|Fantasy
+Anne of Green Gables|L.M. Montgomery|Children's Literature
+The Diary of a Young Girl|Anne Frank|Nonfiction
+The Book Thief|Markus Zusak|Historical Fiction
+Charlotte's Web|E.B. White|Children's Literature
+Little Women|Louisa May Alcott|Classic
+Moby-Dick|Herman Melville|Adventure
+Oliver Twist|Charles Dickens|Classic
+The Odyssey|Homer|Classic
+The War of the Worlds|H.G. Wells|Science Fiction
+Treasure Island|Robert Louis Stevenson|Adventure
+Winnie-the-Pooh|A.A. Milne|Children's Literature
+War and Peace|Leo Tolstoy|Historical Fiction
+Walden|Henry David Thoreau|Nonfiction
+Ulysses|James Joyce|Modernist
+The Grapes of Wrath|John Steinbeck|Fiction
+The Road|Cormac McCarthy|Dystopian
+The Prince|Niccolò Machiavelli|Politics
+The Republic|Plato|Philosophy
+The Wealth of Nations|Adam Smith|Economics
+The Communist Manifesto|Karl Marx and Friedrich Engels|Politics
+The Art of War|Sun Tzu|Strategy
+A Brief History of Time|Stephen Hawking|Nonfiction
+The Origin of Species|Charles Darwin|Science
+The Structure of Scientific Revolutions|Thomas S. Kuhn|Science
+The Selfish Gene|Richard Dawkins|Science
+Silent Spring|Rachel Carson|Environmental Science
+Meditations|Marcus Aurelius|Philosophy
+Critique of Pure Reason|Immanuel Kant|Philosophy
+Thus Spoke Zarathustra|Friedrich Nietzsche|Philosophy
+The Interpretation of Dreams|Sigmund Freud|Psychology
+On the Origin of Species|Charles Darwin|Science
+The Descent of Man|Charles Darwin|Science
+Principia Mathematica|Isaac Newton|Science
+Democracy in America|Alexis de Tocqueville|Political Science
+The Federalist Papers|Alexander Hamilton, James Madison, and John Jay|Political Theory
+Common Sense|Thomas Paine|Political Theory
+The Social Contract|Jean-Jacques Rousseau|Philosophy
+Utopia|Thomas More|Political Theory
+Discourse on the Origin and Basis of Inequality Among Men|Jean-Jacques Rousseau|Philosophy
+The Book of Five Rings|Miyamoto Musashi|Strategy
+Nicomachean Ethics|Aristotle|Philosophy
+Beyond Good and Evil|Friedrich Nietzsche|Philosophy
+Capital,Volume I|Karl Marx|Economics
+The General Theory of Employment, Interest, and Money|John Maynard Keynes|Economics
+Das Kapital|Karl Marx|Economics
+The Road to Serfdom|Friedrich Hayek|Political Theory
+On War|Carl von Clausewitz|Strategy
+On Liberty|John Stuart Mill|Political Theory
+An Essay Concerning Human Understanding|John Locke|Philosophy
+Pride and Prejudice|Jane Austen|Romance
+To Kill a Mockingbird|Harper Lee|Fiction
+1984|George Orwell|Science Fiction
+The Great Gatsby|F. Scott Fitzgerald|Classic
+Animal Farm|George Orwell|Dystopian
+Brave New World|Aldous Huxley|Science Fiction
+The Catcher in the Rye|J.D. Salinger|Fiction
+Wuthering Heights|Emily Brontë|Classic
+Jane Eyre|Charlotte Brontë|Classic
+The Picture of Dorian Gray|Oscar Wilde|Classic
+Frankenstein|Mary Shelley|Science Fiction
+Dracula|Bram Stoker|Horror
+Crime and Punishment|Fyodor Dostoevsky|Classic
+The Brothers Karamazov|Fyodor Dostoevsky|Classic
+The Scarlet Letter|Nathaniel Hawthorne|Classic
+Les Misérables|Victor Hugo|Classic
+Anna Karenina|Leo Tolstoy|Classic
+The Adventures of Sherlock Holmes|Arthur Conan Doyle|Mystery
+Great Expectations|Charles Dickens|Classic
+Sense and Sensibility|Jane Austen|Classic
+The Count of Monte Cristo|Alexandre Dumas|Adventure
+The Strange Case of Dr. Jekyll and Mr. Hyde|Robert Louis Stevenson|Classic
+The Iliad|Homer|Classic
+The Three Musketeers|Alexandre Dumas|Adventure
+Robinson Crusoe|Daniel Defoe|Adventure
+The Arabian Nights|Anonymous|Classic
+War of the Worlds|H.G. Wells|Science Fiction
+The Time Machine|H.G. Wells|Science Fiction
+Twenty Thousand Leagues Under the Sea|Jules Verne|Science Fiction
+The Invisible Man|H.G. Wells|Science Fiction
+The Island of Doctor Moreau|H.G. Wells|Science Fiction
+Journey to the Center of the Earth|Jules Verne|Science Fiction
+From the Earth to the Moon|Jules Verne|Science Fiction
+The First Men in the Moon|H.G. Wells|Science Fiction
+The Lost World|Arthur Conan Doyle|Science Fiction
+The Stars, Like Dust|Isaac Asimov|Science Fiction
+Foundation|Isaac Asimov|Science Fiction
+The Caves of Steel|Isaac Asimov|Science Fiction
+The Martian Chronicles|Ray Bradbury|Science Fiction
+Fahrenheit 451|Ray Bradbury|Science Fiction
+Stranger in a Strange Land|Robert A. Heinlein|Science Fiction
+Dune|Frank Herbert|Science Fiction
+The Foundation Trilogy|Isaac Asimov|Science Fiction
+Neuromancer|William Gibson|Science Fiction
+Do Androids Dream of Electric Sheep?|Philip K. Dick|Science Fiction
+The Day of the Triffids|John Wyndham|Science Fiction
+Childhood's End|Arthur C. Clarke|Science Fiction
+The Left Hand of Darkness|Ursula K. Le Guin|Science Fiction
+Ringworld|Larry Niven|Science Fiction
+CUSTOM BOOK 1|JAY RAMSEY|IDK
+my book|me|a genre
