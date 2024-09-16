@@ -1,0 +1,14 @@
+c:\Users\mumbl\OneDrive\Desktop\comp sci stuff unused\C# stuff\testProject\bin\Debug\net8.0\testProject.exe
+c:\Users\mumbl\OneDrive\Desktop\comp sci stuff unused\C# stuff\testProject\bin\Debug\net8.0\testProject.deps.json
+c:\Users\mumbl\OneDrive\Desktop\comp sci stuff unused\C# stuff\testProject\bin\Debug\net8.0\testProject.runtimeconfig.json
+c:\Users\mumbl\OneDrive\Desktop\comp sci stuff unused\C# stuff\testProject\bin\Debug\net8.0\testProject.dll
+c:\Users\mumbl\OneDrive\Desktop\comp sci stuff unused\C# stuff\testProject\bin\Debug\net8.0\testProject.pdb
+c:\Users\mumbl\OneDrive\Desktop\comp sci stuff unused\C# stuff\testProject\obj\Debug\net8.0\testProject.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\mumbl\OneDrive\Desktop\comp sci stuff unused\C# stuff\testProject\obj\Debug\net8.0\testProject.AssemblyInfoInputs.cache
+c:\Users\mumbl\OneDrive\Desktop\comp sci stuff unused\C# stuff\testProject\obj\Debug\net8.0\testProject.AssemblyInfo.cs
+c:\Users\mumbl\OneDrive\Desktop\comp sci stuff unused\C# stuff\testProject\obj\Debug\net8.0\testProject.csproj.CoreCompileInputs.cache
+c:\Users\mumbl\OneDrive\Desktop\comp sci stuff unused\C# stuff\testProject\obj\Debug\net8.0\testProject.dll
+c:\Users\mumbl\OneDrive\Desktop\comp sci stuff unused\C# stuff\testProject\obj\Debug\net8.0\refint\testProject.dll
+c:\Users\mumbl\OneDrive\Desktop\comp sci stuff unused\C# stuff\testProject\obj\Debug\net8.0\testProject.pdb
+c:\Users\mumbl\OneDrive\Desktop\comp sci stuff unused\C# stuff\testProject\obj\Debug\net8.0\testProject.genruntimeconfig.cache
+c:\Users\mumbl\OneDrive\Desktop\comp sci stuff unused\C# stuff\testProject\obj\Debug\net8.0\ref\testProject.dll
