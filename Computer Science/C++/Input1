@@ -1,0 +1,19 @@
+#include <iostream>
+#include <stdio.h>
+
+using namespace std;
+
+int main() {
+    // pointers
+    int count = 5;
+    cout << "Enter " << count << " numbers" << endl;
+    int nums[count];
+    
+    for (auto i: nums) {
+        int num;
+        cin >> num;
+        nums[i] = num;
+    }
+
+    return 0;
+}
